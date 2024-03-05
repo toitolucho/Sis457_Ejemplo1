@@ -1,4 +1,4 @@
-###PROYECTO BASICO DE SIS457
+### PROYECTO BASICO DE SIS457
 
 Se ha revisado los siguientes topicos
 - Programacion orientada objetos
