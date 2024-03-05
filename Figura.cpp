@@ -3,7 +3,7 @@
 
 Figura::Figura()
 {
-	coordenadaX = coordenadaY = -1;
+	coordenadaX = coordenadaY = 0;
 }
 
 float Figura::getCoordenadaX()

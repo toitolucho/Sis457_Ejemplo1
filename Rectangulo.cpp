@@ -2,5 +2,5 @@
 
 Rectangulo::Rectangulo()
 {
-	coordenadaX = coordenadaY = 1;
+	coordenadaX = coordenadaY = 2;
 }
