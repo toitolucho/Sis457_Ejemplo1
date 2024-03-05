@@ -1,0 +1,4 @@
+﻿  Sis457_Ejemplo1.cpp
+C:\Users\Usfx87\source\repos\Sis457_Ejemplo1\Sis457_Ejemplo1\Sis457_Ejemplo1.cpp(17,9): warning C4101: 'z': unreferenced local variable
+C:\Users\Usfx87\source\repos\Sis457_Ejemplo1\Sis457_Ejemplo1\Sis457_Ejemplo1.cpp(15,9): warning C4101: 'x': unreferenced local variable
+  Sis457_Ejemplo1.vcxproj -> C:\Users\Usfx87\source\repos\Sis457_Ejemplo1\x64\Debug\Sis457_Ejemplo1.exe
